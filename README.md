@@ -1,31 +1,56 @@
 <!DOCTYPE html>
+<html>
 <body>
-  <h1>Graph Visualizer</h1>
-  <p>This project is a Graph Visualizer tool developed using Java and a user-friendly GUI. It allows users to create and manipulate directed and weighted graphs. The tool supports functionalities such as adding and removing vertices and edges, saving the graph, and finding the shortest path using popular algorithms like Dijkstra's, Bellman-Ford, A* Search, Greedy, and Bidirectional Search.</p>
-  <h2>Features</h2>
-  <ul>
-    <li>Graph creation and manipulation using an intuitive GUI</li>
-    <li>Directed and weighted graph support</li>
-    <li>Adding and removing vertices and edges</li>
-    <li>Saving and loading graph data</li>
-    <li>Calculation and visualization of the shortest path using various algorithms</li>
-    <li>Efficient data structures and algorithms implementation</li>
-  </ul>
-  <h2>Requirements</h2>
-  <ul>
-    <li>Java Development Kit (JDK)</li>
-    <li>Java IDE (IntelliJ, Eclipse, etc.)</li>
-  </ul>
-  <h2>Usage</h2>
-  <ol>
-    <li>Clone the repository or download the source code.</li>
-    <li>Import the project into your Java IDE.</li>
-    <li>Build and run the project.</li>
-    <li>Use the GUI to create and manipulate the graph.</li>
-    <li>Choose the desired algorithm to find the shortest path.</li>
-    <li>Visualize and analyze the shortest path between two vertices.</li>
-  </ol>
-  <h2>Contributions</h2>
-  <p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.</p>
+<h1>Sorting Visualizer</h1>
+<p>This project is a sorting visualizer built using Python and Tkinter.</p>
+<h2>Features:</h2>
+<ol>
+  <li>
+    Visualization of Sorting Algorithms:
+    <ul>
+      <li>The project provides visualizations for various sorting algorithms, including Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, Counting Sort, and Selection Sort.</li>
+      <li>Each algorithm is visually represented on the canvas, showing the step-by-step sorting process.</li>
+    </ul>
+  </li>
+  <li>
+    Customizable Number of Blocks:
+    <ul>
+      <li>Users can customize the number of blocks used in the sorting visualization.</li>
+      <li>The number of blocks can be adjusted using a slider in the configuration window, allowing users to see the sorting algorithms in action with different block sizes.</li>
+    </ul>
+  </li>
+  <li>
+    User-Friendly Interface:
+    <ul>
+      <li>The project offers a user-friendly interface with intuitive buttons and controls.</li>
+      <li>Users can start the sorting animation by clicking the play button.</li>
+      <li>They can pause the animation at any time by clicking the pause button.</li>
+      <li>The configuration window provides options to modify the number of blocks and select the desired sorting algorithm.</li>
+    </ul>
+  </li>
+  <li>
+    Analysis Space:
+    <ul>
+      <li>The project includes an analysis space where users can explore additional information related to the sorting algorithms.</li>
+      <li>Regression Plots: Users can view regression plots that demonstrate the time complexity of each sorting algorithm based on the number of elements.</li>
+      <li>Code and Complexity Information: The analysis space provides code snippets and information about the space and time complexity of each sorting algorithm, helping users understand their implementation and performance characteristics.</li>
+    </ul>
+  </li>
+</ol>
+<h2>Requirements:</h2>
+<ul>
+  <li>Python 3.x</li>
+  <li>Tkinter</li>
+</ul>
+<h2>Usage:</h2>
+<p>To run the Sorting Visualizer:</p>
+<ol>
+  <li>Ensure that Python and Tkinter are installed on your system.</li>
+  <li>Clone the project repository or download the source code.</li>
+  <li>Navigate to the project directory.</li>
+  <li>Run the command <code>python sorting_visualizer.py</code> to start the application.</li>
+</ol>
+<h2>Contribution:</h2>
+<p>Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
 </body>
 </html>
