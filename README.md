@@ -27,7 +27,5 @@
   </ol>
   <h2>Contributions</h2>
   <p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.</p>
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute the code as per the terms of the license.</p>
 </body>
 </html>
