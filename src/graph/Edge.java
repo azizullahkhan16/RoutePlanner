@@ -31,7 +31,6 @@ public class Edge implements Serializable {
         this.weight = weight;
         this.sourceVertex = sourceVertex;
         this.destinationVertex = destinationVertex;
-
         isShortestEdge = false;
 
         try {
