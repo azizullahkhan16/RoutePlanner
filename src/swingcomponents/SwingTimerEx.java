@@ -3,6 +3,7 @@ package swingcomponents;
 import toolbar.ToolbarJPanel;
 
 import java.awt.EventQueue;
+import java.util.Objects;
 import javax.swing.*;
 
 public class SwingTimerEx extends JFrame {
