@@ -16,8 +16,10 @@ public class SwingTimerEx extends JFrame {
     // Initialisations of SwingTimerEx
     private void initUI() {
         // Add board to jframe
+        ImageIcon icon = new ImageIcon("src/aktic_v_png_t.png");
         add(new Board());
 
+        setIconImage(icon.getImage());
         setResizable(false);
         pack();
 
