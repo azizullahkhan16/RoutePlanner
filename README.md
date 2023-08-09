@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Graph Visualizer - README</title>
-</head>
 <body>
   <h1>Graph Visualizer</h1>
   <p>This project is a Graph Visualizer tool developed using Java and a user-friendly GUI. It allows users to create and manipulate directed and weighted graphs. The tool supports functionalities such as adding and removing vertices and edges, saving the graph, and finding the shortest path using popular algorithms like Dijkstra's, Bellman-Ford, A* Search, Greedy, and Bidirectional Search.</p>
